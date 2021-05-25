@@ -1,0 +1,4 @@
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\obj\Debug\netcoreapp3.1\KanyeWest.csprojAssemblyReference.cache
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\obj\Debug\netcoreapp3.1\KanyeWest.AssemblyInfoInputs.cache
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\obj\Debug\netcoreapp3.1\KanyeWest.AssemblyInfo.cs
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\obj\Debug\netcoreapp3.1\KanyeWest.csproj.CoreCompileInputs.cache

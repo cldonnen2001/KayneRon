@@ -1,0 +1,14 @@
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\bin\Debug\netcoreapp3.1\Kanye.exe
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\bin\Debug\netcoreapp3.1\Kanye.deps.json
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\bin\Debug\netcoreapp3.1\Kanye.runtimeconfig.json
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\bin\Debug\netcoreapp3.1\Kanye.runtimeconfig.dev.json
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\bin\Debug\netcoreapp3.1\Kanye.dll
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\bin\Debug\netcoreapp3.1\Kanye.pdb
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\obj\Debug\netcoreapp3.1\Kanye.AssemblyInfoInputs.cache
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\obj\Debug\netcoreapp3.1\Kanye.AssemblyInfo.cs
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\obj\Debug\netcoreapp3.1\Kanye.csproj.CoreCompileInputs.cache
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\obj\Debug\netcoreapp3.1\Kanye.csproj.CopyComplete
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\obj\Debug\netcoreapp3.1\Kanye.dll
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\obj\Debug\netcoreapp3.1\Kanye.pdb
+C:\Users\cldon\Desktop\Repos\Kaynea\Kayne\obj\Debug\netcoreapp3.1\Kanye.genruntimeconfig.cache
